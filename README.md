@@ -1,3 +1,3 @@
 # php
-# my website in php for online admission system
+# My website in php for online admission system
 http://indreshkashyap.epizy.com/nic/
